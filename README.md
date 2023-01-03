@@ -1,5 +1,4 @@
 # Motion-Toast-in-Android
-<img src="motiontoast.png">
 
 <h2>Output of the above code:</h2>
 <img src="allmotiontoast.png" >
